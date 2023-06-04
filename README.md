@@ -1,4 +1,4 @@
-Practical 2: The prisoner problem simulation
+# Practical 2: The prisoner problem simulation
 
 This practical uses stochastic simulation to investigate a somewhat surprising probability puzzle. Along the
 way it makes an important statistical point about how badly wrong it is possible to go by assuming events, or
