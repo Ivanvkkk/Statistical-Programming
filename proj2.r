@@ -1,14 +1,3 @@
-#name ; university user name ; 
-#Shiyu Cai ; s2307982
-#Yifan Wu ; s2316499
-#Yifan Cai ; s2301729
-
-#github repo:https://github.com/ShiyuCai-Sierra/sp.project2.git
-
-#Shiyu Cai: Write Pone and Pall function of the first two strategies. Provide example code.
-#Yifan Wu: Write dloop function and use it to estimate the probabilities. Visualization of the probabilities.
-#Yifan Cai: Write Pone and Pall function of the third strategies. Provide example code. Organize the framework of the entire code.
-
 #outline:
 #In this code file, we are trying to simulate the prisoner problem by using three different strategies and find the best of the three. 
 #The prisoner problem is that we let 2n prisoners who have their own specific number walk into a room with 2n boxes and each box contains a random number ranging from 1 to 2n to find the card with their own number.
